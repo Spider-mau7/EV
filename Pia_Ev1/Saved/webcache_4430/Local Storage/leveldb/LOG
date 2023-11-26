@@ -1,2 +1,3 @@
-2023/10/15-00:24:32.548 850 Creating DB C:/Users/PC/Documents/Facultad/7to/Escenarios/Pia_Ev1/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/10/15-00:24:32.628 850 Reusing MANIFEST C:/Users/PC/Documents/Facultad/7to/Escenarios/Pia_Ev1/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/11/26-15:07:17.235 dfc Reusing MANIFEST M:/FCFM/6to/PW1/EV/Pia_Ev1/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/11/26-15:07:17.260 dfc Recovering log #3
+2023/11/26-15:07:17.277 dfc Reusing old log M:/FCFM/6to/PW1/EV/Pia_Ev1/Saved/webcache_4430\Local Storage\leveldb/000003.log 
