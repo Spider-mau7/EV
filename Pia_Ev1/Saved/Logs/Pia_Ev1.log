@@ -24197,3 +24197,152 @@ Script Stack (0 frames) :
 [2024.04.20-08.45.49:300][669]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
 	Animacion_Zorro_C /Engine/Transient.World_35:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Animacion_Zorro_C_0
 	Function /Game/Animacion_Zorro.Animacion_Zorro_C:ExecuteUbergraph_Animacion_Zorro:0040
+[2024.04.20-08.46.51:446][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.04.20-08.46.51:451][864]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.038
+[2024.04.20-08.46.51:452][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/modelos/perro/Object_7] ([1] browsable assets)...
+[2024.04.20-08.46.51:962][864]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/modelos/perro/Object_7.Object_7]
+[2024.04.20-08.46.51:962][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/modelos/perro/Object_7]
+[2024.04.20-08.46.51:963][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/modelos/perro/Object_7" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/Object_7_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.04.20-08.46.52:106][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/modelos/perro/Object_7_Auto6
+[2024.04.20-08.46.52:106][864]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Object_7_Auto631E156E84D7C5E1CFC9D179F43678C23.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/Object_7_Auto6.uasset'
+[2024.04.20-08.46.52:108][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/modelos/conejo/Rabbit] ([1] browsable assets)...
+[2024.04.20-08.46.52:161][864]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/modelos/conejo/Rabbit.Rabbit]
+[2024.04.20-08.46.52:161][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/modelos/conejo/Rabbit]
+[2024.04.20-08.46.52:161][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/modelos/conejo/Rabbit" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/conejo/Rabbit_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.04.20-08.46.52:181][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/modelos/conejo/Rabbit_Auto6
+[2024.04.20-08.46.52:181][864]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Rabbit_Auto6E0476E0D4800FA525D3ED88885FBD6A6.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/conejo/Rabbit_Auto6.uasset'
+[2024.04.20-08.46.52:182][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/modelos/perro/labrador_dog_Anim] ([1] browsable assets)...
+[2024.04.20-08.46.52:353][864]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/modelos/perro/labrador_dog_Anim.labrador_dog_Anim]
+[2024.04.20-08.46.52:353][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/modelos/perro/labrador_dog_Anim]
+[2024.04.20-08.46.52:359][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/modelos/perro/labrador_dog_Anim_Auto6
+[2024.04.20-08.46.52:359][864]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/labrador_dog_Anim_Auto66690791242AC9EC9288ED3B165418A31.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/labrador_dog_Anim_Auto6.uasset'
+[2024.04.20-08.46.52:360][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/modelos/conejo/Rabbit_Skeleton] ([1] browsable assets)...
+[2024.04.20-08.46.52:437][864]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/modelos/conejo/Rabbit_Skeleton.Rabbit_Skeleton]
+[2024.04.20-08.46.52:437][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/modelos/conejo/Rabbit_Skeleton]
+[2024.04.20-08.46.52:443][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/modelos/conejo/Rabbit_Skeleton_Auto6
+[2024.04.20-08.46.52:443][864]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Rabbit_Skeleton_Auto627623FEA4D7DBD6B0BA02BB3D714036E.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/conejo/Rabbit_Skeleton_Auto6.uasset'
+[2024.04.20-08.46.52:445][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/modelos/conejo/Rabbit_PhysicsAsset] ([1] browsable assets)...
+[2024.04.20-08.46.52:461][864]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/modelos/conejo/Rabbit_PhysicsAsset.Rabbit_PhysicsAsset]
+[2024.04.20-08.46.52:461][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/modelos/conejo/Rabbit_PhysicsAsset]
+[2024.04.20-08.46.52:463][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/modelos/conejo/Rabbit_PhysicsAsset_Auto6
+[2024.04.20-08.46.52:463][864]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Rabbit_PhysicsAsset_Auto6595FC8404909AC3ED9C1638CABF8D9DF.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/conejo/Rabbit_PhysicsAsset_Auto6.uasset'
+[2024.04.20-08.46.52:464][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/modelos/perro/labrador_dog_texture_0] ([1] browsable assets)...
+[2024.04.20-08.46.52:467][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/modelos/perro/labrador_dog_texture_0.labrador_dog_texture_0]
+[2024.04.20-08.46.52:467][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/modelos/perro/labrador_dog_texture_0]
+[2024.04.20-08.46.52:473][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/modelos/perro/labrador_dog_texture_0_Auto6
+[2024.04.20-08.46.52:473][864]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/labrador_dog_texture_0_Auto6F9E9D09A4B0FECD9A99EA9BCCC3E076B.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/labrador_dog_texture_0_Auto6.uasset'
+[2024.04.20-08.46.52:475][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/modelos/perro/labrador_dog_texture_1] ([1] browsable assets)...
+[2024.04.20-08.46.52:477][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/modelos/perro/labrador_dog_texture_1.labrador_dog_texture_1]
+[2024.04.20-08.46.52:477][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/modelos/perro/labrador_dog_texture_1]
+[2024.04.20-08.46.52:501][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/modelos/perro/labrador_dog_texture_1_Auto6
+[2024.04.20-08.46.52:501][864]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/labrador_dog_texture_1_Auto6ADE1FA2F47C78ACF926E988AC01A69F9.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/labrador_dog_texture_1_Auto6.uasset'
+[2024.04.20-08.46.52:503][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/modelos/perro/labrador_dog_texture_2] ([1] browsable assets)...
+[2024.04.20-08.46.52:506][864]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/modelos/perro/labrador_dog_texture_2.labrador_dog_texture_2]
+[2024.04.20-08.46.52:506][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/modelos/perro/labrador_dog_texture_2]
+[2024.04.20-08.46.52:520][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/modelos/perro/labrador_dog_texture_2_Auto6
+[2024.04.20-08.46.52:520][864]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/labrador_dog_texture_2_Auto6B71018864642A9830B9E5CAA0B688419.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/labrador_dog_texture_2_Auto6.uasset'
+[2024.04.20-08.46.52:521][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/modelos/perro/Object_7_PhysicsAsset] ([1] browsable assets)...
+[2024.04.20-08.46.52:545][864]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/modelos/perro/Object_7_PhysicsAsset.Object_7_PhysicsAsset]
+[2024.04.20-08.46.52:545][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/modelos/perro/Object_7_PhysicsAsset]
+[2024.04.20-08.46.52:555][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/modelos/perro/Object_7_PhysicsAsset_Auto6
+[2024.04.20-08.46.52:555][864]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Object_7_PhysicsAsset_Auto6E48128D841ED8F1FC24E06861BE0E52C.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/Object_7_PhysicsAsset_Auto6.uasset'
+[2024.04.20-08.46.52:556][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/modelos/perro/Object_7_Skeleton] ([1] browsable assets)...
+[2024.04.20-08.46.52:580][864]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/modelos/perro/Object_7_Skeleton.Object_7_Skeleton]
+[2024.04.20-08.46.52:580][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/modelos/perro/Object_7_Skeleton]
+[2024.04.20-08.46.52:582][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/modelos/perro/Object_7_Skeleton_Auto6
+[2024.04.20-08.46.52:582][864]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Object_7_Skeleton_Auto623CB498443421B8090EDFFA0E7C314E0.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/Object_7_Skeleton_Auto6.uasset'
+[2024.04.20-08.46.52:583][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modelos/perro/Animation] ([1] browsable assets)...
+[2024.04.20-08.46.52:584][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/modelos/perro/Animation]
+[2024.04.20-08.46.52:584][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/modelos/perro/Animation" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/Animation_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.04.20-08.46.52:622][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/modelos/perro/Animation_Auto6
+[2024.04.20-08.46.52:622][864]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Animation_Auto62762CD4F451E4CB2070177AF24D82A3C.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/Animation_Auto6.uasset'
+[2024.04.20-08.46.52:624][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/modelos/perro/material] ([1] browsable assets)...
+[2024.04.20-08.46.52:704][864]OBJ SavePackage:     Rendered thumbnail for [Material /Game/modelos/perro/material.material]
+[2024.04.20-08.46.52:704][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/modelos/perro/material]
+[2024.04.20-08.46.52:705][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/modelos/perro/material" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/material_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.04.20-08.46.52:710][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/modelos/perro/material_Auto6
+[2024.04.20-08.46.52:710][864]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/material_Auto605A89B474180EAC60DFA529EFFE5B46A.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/material_Auto6.uasset'
+[2024.04.20-08.46.52:712][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/modelos/perro/Object_18] ([1] browsable assets)...
+[2024.04.20-08.46.52:735][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/modelos/perro/Object_18.Object_18]
+[2024.04.20-08.46.52:735][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/modelos/perro/Object_18]
+[2024.04.20-08.46.52:735][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/modelos/perro/Object_18" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/Object_18_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.04.20-08.46.52:744][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/modelos/perro/Object_18_Auto6
+[2024.04.20-08.46.52:744][864]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Object_18_Auto698A3247140DB126811B45B9582E074C1.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/modelos/perro/Object_18_Auto6.uasset'
+[2024.04.20-08.46.52:745][864]LogFileHelpers: Auto-saving content packages took 1.294
+[2024.04.20-08.47.35:657][ 46]LogContentBrowser: Deferred new asset folder creation: Carpeta nueva
+[2024.04.20-08.47.35:896][ 46]LogContentBrowser: Creating deferred item: Carpeta nueva
+[2024.04.20-08.47.35:910][ 47]LogContentBrowser: Renaming the item being created (Deferred Item: Carpeta nueva).
+[2024.04.20-08.47.38:122][ 84]LogContentBrowser: Attempting asset rename: Carpeta nueva -> crouch
+[2024.04.20-08.47.38:122][ 84]LogContentBrowser: End creating deferred item Carpeta nueva
+[2024.04.20-09.10.17:437][203]LogDerivedDataCache: C:/Users/maub2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.143 and deleted 0 files with total size 0 MiB. Scanned 5293 files in 5242 folders with total size 600 MiB.
+[2024.04.20-09.47.56:477][  8]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2024.04.20-09.47.58:489][  8]LogSlate: Window 'Guardar contenido' being destroyed
+[2024.04.20-09.47.58:506][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.20-09.48.04:078][  8]LogSlate: Window 'Guardar nivel como' being destroyed
+[2024.04.20-09.48.04:099][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.59 sec (total: 16.2 sec)
+[2024.04.20-09.48.07:912][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.20-09.48.09:743][ 67]LogSlate: Window 'Guardar contenido' being destroyed
+[2024.04.20-09.48.09:756][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.20-09.48.19:693][ 67]LogSlate: Window 'Guardar nivel como' being destroyed
+[2024.04.20-09.48.19:716][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.95 sec (total: 26.1 sec)
+[2024.04.20-09.48.22:460][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.20-09.48.22:469][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.20-09.48.37:000][108]LogSlate: Window 'Mensaje' being destroyed
+[2024.04.20-09.48.37:006][108]Message dialog closed, result: No, title: Mensaje, text: ThirdPersonMap already exists. Do you want to replace it?
+[2024.04.20-09.48.42:238][108]LogSlate: Window 'Guardar nivel como' being destroyed
+[2024.04.20-09.48.42:289][108]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.04.20-09.48.42:355][108]LogWindows: Error: appError called: Assertion failed: Actor->GetLevel() == this [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Level.cpp] [Line: 617] 
+
+
+[2024.04.20-09.48.42:355][108]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
+[2024.04.20-09.48.44:222][108]LogWindows: Error: === Critical error: ===
+[2024.04.20-09.48.44:222][108]LogWindows: Error: 
+[2024.04.20-09.48.44:222][108]LogWindows: Error: Assertion failed: Actor->GetLevel() == this [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Level.cpp] [Line: 617] 
+[2024.04.20-09.48.44:222][108]LogWindows: Error: 
+[2024.04.20-09.48.44:222][108]LogWindows: Error: 
+[2024.04.20-09.48.44:222][108]LogWindows: Error: 
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffabbfb18b UnrealEditor-Engine.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffabc5e1f4 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffb0966d81 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffa5a9789f UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffa58723df UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffa5870d28 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffa582de35 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffa582c843 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffa585c27b UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffa585c450 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffa582e78d UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffa58704b1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fff72a83468 UnrealEditor-MainFrame.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fff72a65267 UnrealEditor-MainFrame.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffaa380b21 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffaa4914b6 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffaa495700 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffaa469a64 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffaa5108d6 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffaa536a73 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffaa49712c UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffaa2ca508 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffaa2affca UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.20-09.48.44:222][108]LogWindows: Error: [Callstack] 0x00007fffaa316863 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007fffaa305343 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007fffaa2fafec UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007fffb66f19a2 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007fffb66d67d1 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007fffb66f4391 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007fffb66cff93 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007ff85687ef75 USER32.dll!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007ff85687e69d USER32.dll!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007fffb66f5849 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007ff674017332 UnrealEditor.exe!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007ff67403287d UnrealEditor.exe!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007ff67403296a UnrealEditor.exe!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007ff674035680 UnrealEditor.exe!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007ff6740471b4 UnrealEditor.exe!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007ff67404a516 UnrealEditor.exe!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007ff857ac7344 KERNEL32.DLL!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: [Callstack] 0x00007ff857c026b1 ntdll.dll!UnknownFunction []
+[2024.04.20-09.48.44:223][108]LogWindows: Error: 
