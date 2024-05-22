@@ -7071,3 +7071,652 @@ Make sure 'BP_Enemy_Base_C' has been compiled for  Obtener BPC_DmageSystem
 [2024.05.22-06.03.44:856][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 1:38 min)
 [2024.05.22-06.03.44:871][199]AssetCheck: New page: Asset Save: BP_TerceraYPrimera
 [2024.05.22-06.03.44:871][199]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera.BP_TerceraYPrimera
+[2024.05.22-06.06.02:155][368]BlueprintLog: New page: Compilar BP_NPC
+[2024.05.22-06.06.02:320][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.05.22-06.06.02:884][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.22-06.06.03:636][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogo/BP_NPC" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/Dialogo/BP_NPC.uasset" SILENT=true
+[2024.05.22-06.06.03:643][399]LogSavePackage: Moving output files for package: /Game/Dialogo/BP_NPC
+[2024.05.22-06.06.03:644][399]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/BP_NPC4FAB3DC746023045DFB0089261A1FF91.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/Dialogo/BP_NPC.uasset'
+[2024.05.22-06.06.03:655][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 771 ms (total: 1:39 min)
+[2024.05.22-06.06.03:668][399]AssetCheck: New page: Asset Save: BP_NPC
+[2024.05.22-06.06.03:668][399]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dialogo/BP_NPC.BP_NPC
+[2024.05.22-06.07.03:131][500]BlueprintLog: New page: Compilar BP_NPC
+[2024.05.22-06.07.03:298][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.05.22-06.07.04:063][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.22-06.07.04:177][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogo/BP_NPC" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/Dialogo/BP_NPC.uasset" SILENT=true
+[2024.05.22-06.07.04:183][514]LogSavePackage: Moving output files for package: /Game/Dialogo/BP_NPC
+[2024.05.22-06.07.04:184][514]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/BP_NPC453039564D89F896B01A90BCF905E82E.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/Dialogo/BP_NPC.uasset'
+[2024.05.22-06.07.04:195][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 1:39 min)
+[2024.05.22-06.07.04:209][514]AssetCheck: New page: Asset Save: BP_NPC
+[2024.05.22-06.07.04:209][514]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dialogo/BP_NPC.BP_NPC
+[2024.05.22-06.07.22:771][  4]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.05.22-06.07.22:776][  4]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.22-06.07.22:776][  4]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.22-06.07.22:776][  4]LogWorldPartition: Display: GetPartitionedActors took 17 us (total: 757 us)
+[2024.05.22-06.07.22:805][  4]LogWorldPartition: Display: GenerateStreaming took 28 ms (total: 3.82 sec)
+[2024.05.22-06.07.22:805][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.22-06.07.22:805][  4]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonMap (21 may. 2024 19:07:22)
+[2024.05.22-06.07.22:805][  4]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.22-06.07.22:846][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040930s)
+[2024.05.22-06.07.22:846][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.040974s)
+[2024.05.22-06.07.22:847][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.22-06.07.22:847][  4]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.22-06.07.22:848][  4]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.05.22-06.07.22:848][  4]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.22-06.07.22:848][  4]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.22-06.07.22:857][  4]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.05.22-06.07.22:857][  4]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 7.50 sec)
+[2024.05.22-06.07.22:857][  4]LogPlayLevel: PIE: World Init took: (0.011318s)
+[2024.05.22-06.07.22:923][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.05.22-06.07.22:937][  4]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.05.22-06.07.22:937][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.22-06.07.22:937][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.22-06.07.22:937][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.22-06.07.22:937][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.22-06.07.22:937][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.22-06.07.22:937][  4]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.22-06.07.22:937][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.22-06.07.22:937][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.22-06.07.22:937][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.22-06.07.22:937][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.22-06.07.22:937][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.22-06.07.22:940][  4]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.22-06.07.22:956][  4]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (HyperX Cloud Stinger Wireless)
+[2024.05.22-06.07.22:956][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.22-06.07.22:956][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.22-06.07.22:956][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.22-06.07.22:957][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.05.22-06.07.22:957][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.05.22-06.07.22:959][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.05.22-06.07.22:959][  4]LogInit: FAudioDevice initialized.
+[2024.05.22-06.07.22:959][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.05.22-06.07.22:959][  4]LogAudio: Display: Audio Device (ID: 39) registered with world 'ThirdPersonMap'.
+[2024.05.22-06.07.22:965][  4]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.22-06.07.23:109][  4]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.22-00.07.23
+[2024.05.22-06.07.23:114][  4]LogWorld: Bringing up level for play took: 0.148904
+[2024.05.22-06.07.23:117][  4]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2024.05.22-06.07.23:120][  4]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-5814.090 Y=-5983.613 Z=3333.041
+[2024.05.22-06.07.23:189][  4]PIE: El servidor ha iniciado la sesión
+[2024.05.22-06.07.23:190][  4]PIE: Play in editor total start time 0.42 seconds.
+[2024.05.22-06.07.48:240][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.22-06.07.48:240][116]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.22-06.07.48:241][116]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.22-06.07.48:244][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-06.07.48:244][116]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.05.22-06.07.48:834][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.22-06.07.48:849][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-06.07.48:921][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.22-06.07.48:922][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.05.22-06.07.48:924][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.05.22-06.07.48:930][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.22-06.07.48:951][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.05.22-06.07.49:045][117]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2024.05.22-06.08.01:693][920]LogDerivedDataCache: C:/Users/maub2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.138 and deleted 0 files with total size 0 MiB. Scanned 8756 files in 8603 folders with total size 992 MiB.
+[2024.05.22-06.08.24:349][569]BlueprintLog: New page: Compilar BP_NPC
+[2024.05.22-06.08.24:510][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.05.22-06.08.25:046][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.22-06.08.25:412][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogo/BP_NPC" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/Dialogo/BP_NPC.uasset" SILENT=true
+[2024.05.22-06.08.25:419][585]LogSavePackage: Moving output files for package: /Game/Dialogo/BP_NPC
+[2024.05.22-06.08.25:420][585]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/BP_NPC247B09CF48CBE5BF2E7156906883FBAC.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/Dialogo/BP_NPC.uasset'
+[2024.05.22-06.08.25:432][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 386 ms (total: 1:39 min)
+[2024.05.22-06.08.25:445][585]AssetCheck: New page: Asset Save: BP_NPC
+[2024.05.22-06.08.25:445][585]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dialogo/BP_NPC.BP_NPC
+[2024.05.22-06.08.37:208][697]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.22-06.08.37:219][697]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.05.22-06.08.37:230][697]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.22-06.08.37:230][697]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.22-06.08.37:230][697]LogWorldPartition: Display: GetPartitionedActors took 17 us (total: 775 us)
+[2024.05.22-06.08.37:258][697]LogWorldPartition: Display: GenerateStreaming took 27 ms (total: 3.85 sec)
+[2024.05.22-06.08.37:259][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.22-06.08.37:259][697]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonMap (21 may. 2024 19:08:37)
+[2024.05.22-06.08.37:259][697]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.22-06.08.37:299][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041011s)
+[2024.05.22-06.08.37:299][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.041057s)
+[2024.05.22-06.08.37:300][697]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.22-06.08.37:300][697]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.22-06.08.37:301][697]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.05.22-06.08.37:301][697]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.22-06.08.37:301][697]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.22-06.08.37:311][697]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.05.22-06.08.37:311][697]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 7.51 sec)
+[2024.05.22-06.08.37:311][697]LogPlayLevel: PIE: World Init took: (0.011589s)
+[2024.05.22-06.08.37:427][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.05.22-06.08.37:437][697]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.05.22-06.08.37:437][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.22-06.08.37:437][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.22-06.08.37:437][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.22-06.08.37:437][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.22-06.08.37:437][697]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.22-06.08.37:437][697]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.22-06.08.37:437][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.22-06.08.37:437][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.22-06.08.37:437][697]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.22-06.08.37:437][697]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.22-06.08.37:437][697]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.22-06.08.37:440][697]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.22-06.08.37:455][697]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (HyperX Cloud Stinger Wireless)
+[2024.05.22-06.08.37:455][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.22-06.08.37:455][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.22-06.08.37:455][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.22-06.08.37:456][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.05.22-06.08.37:456][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.05.22-06.08.37:459][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.05.22-06.08.37:459][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.05.22-06.08.37:459][697]LogInit: FAudioDevice initialized.
+[2024.05.22-06.08.37:459][697]LogAudio: Display: Audio Device (ID: 40) registered with world 'ThirdPersonMap'.
+[2024.05.22-06.08.37:463][697]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.22-06.08.37:620][697]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.22-00.08.37
+[2024.05.22-06.08.37:626][697]LogWorld: Bringing up level for play took: 0.161713
+[2024.05.22-06.08.37:628][697]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2024.05.22-06.08.37:629][697]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-6012.618 Y=-5648.015 Z=3297.312
+[2024.05.22-06.08.37:646][697]PIE: El servidor ha iniciado la sesión
+[2024.05.22-06.08.37:647][697]PIE: Play in editor total start time 0.425 seconds.
+[2024.05.22-06.09.08:351][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.22-06.09.08:351][801]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.22-06.09.08:352][801]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.22-06.09.08:356][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-06.09.08:356][801]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.05.22-06.09.08:910][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.22-06.09.08:924][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-06.09.08:994][801]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.22-06.09.08:995][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.05.22-06.09.08:998][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.05.22-06.09.09:006][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.22-06.09.09:025][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.05.22-06.09.09:491][802]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2024.05.22-06.11.31:625][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.22-06.11.31:656][517]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9
+[2024.05.22-06.11.31:656][517]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9E8F984004B2E9A4783B9D1ABE8FF4A59.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.11.32:158][517]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9E8F984004B2E9A4783B9D1ABE8FF4A59.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.11.32:658][517]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9E8F984004B2E9A4783B9D1ABE8FF4A59.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.11.33:159][517]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9E8F984004B2E9A4783B9D1ABE8FF4A59.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.11.33:660][517]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9E8F984004B2E9A4783B9D1ABE8FF4A59.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.11.34:161][517]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9E8F984004B2E9A4783B9D1ABE8FF4A59.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.11.34:662][517]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9E8F984004B2E9A4783B9D1ABE8FF4A59.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.11.35:163][517]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9E8F984004B2E9A4783B9D1ABE8FF4A59.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.11.35:664][517]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9E8F984004B2E9A4783B9D1ABE8FF4A59.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.11.36:165][517]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9E8F984004B2E9A4783B9D1ABE8FF4A59.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.11.36:666][517]LogFileManager: Error: Error moving file '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9E8F984004B2E9A4783B9D1ABE8FF4A59.tmp'.
+[2024.05.22-06.11.36:666][517]LogSavePackage: Warning: Failed to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to temp directory
+[2024.05.22-06.11.36:666][517]LogSavePackage: Error: Error saving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap'
+[2024.05.22-06.11.36:668][517]EditorErrors: New page: Guardar salida
+[2024.05.22-06.11.36:668][517]EditorErrors: Warning: Error al guardar '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap'
+[2024.05.22-06.11.36:733][517]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' which belongs to world '/Game/ThirdPerson/Maps/ThirdPersonMap'. Aborting autosave.
+[2024.05.22-06.11.36:768][518]LogAutomationController: Ignoring very large delta of 5.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.22-06.13.29:247][855]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Digital Audio (HDMI) (High Definition Audio Device), InstanceID=1
+[2024.05.22-06.13.29:286][855]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8648
+[2024.05.22-06.13.29:619][856]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{e94786a8-79cb-4690-b814-7db892624944}, Name=Digital Audio (HDMI) (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=49.00
+[2024.05.22-06.13.29:620][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.22-06.13.29:622][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.22-06.13.35:653][875]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (HyperX Cloud Flight Wireless), InstanceID=1
+[2024.05.22-06.13.35:955][875]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8648
+[2024.05.22-06.13.36:292][876]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{27cba89e-1628-409b-84cf-117cbd7b2fa3}, Name=Altavoces (HyperX Cloud Flight Wireless)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=29.73
+[2024.05.22-06.13.36:292][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.22-06.13.36:294][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.22-06.14.50:001][138]LogSlate: Window 'Registro del mensaje' being destroyed
+[2024.05.22-06.14.50:104][138]LogSlate: Window 'Registro del mensaje' being destroyed
+[2024.05.22-06.15.41:654][525]LogViewport: Scene viewport resized to 936x302, mode Windowed.
+[2024.05.22-06.15.42:352][527]LogViewport: Scene viewport resized to 936x277, mode Windowed.
+[2024.05.22-06.15.43:549][534]LogViewport: Scene viewport resized to 936x269, mode Windowed.
+[2024.05.22-06.18.58:906][530]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WIDGETS/UW_MainMenu.UW_MainMenu
+[2024.05.22-06.18.58:907][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.22-06.18.59:178][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.22-06.18.59:867][530]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'None'. Utilizando FToolbarStyle predeterminado en su lugar.
+[2024.05.22-06.18.59:867][530]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'None'. Utilizando FToolbarStyle predeterminado en su lugar.
+[2024.05.22-06.19.34:456][789]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WIDGETS/MenuPausa.MenuPausa
+[2024.05.22-06.19.34:456][789]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.22-06.19.34:538][789]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.22-06.19.35:160][789]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'None'. Utilizando FToolbarStyle predeterminado en su lugar.
+[2024.05.22-06.19.35:160][789]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'None'. Utilizando FToolbarStyle predeterminado en su lugar.
+[2024.05.22-06.22.42:095][630]LogTextFormatter: Warning: Failed to parse argument "0 '{0" as a number (using "0" as a fallback). Please check your format string for errors: "Ninguna imagen en '{0 '{0}' ({1}x{2})".
+[2024.05.22-06.22.42:095][630]LogTextFormatter: Warning: Failed to parse argument "0 '{0" as a number (using "0" as a fallback). Please check your format string for errors: "Ninguna imagen en '{0 '{0}' ({1}x{2})".
+[2024.05.22-06.22.42:095][630]LogTextFormatter: Warning: Failed to parse argument "0 '{0" as a number (using "0" as a fallback). Please check your format string for errors: "Ninguna imagen en '{0 '{0}' ({1}x{2})".
+[2024.05.22-06.22.42:504][631]LogAutomationController: Ignoring very large delta of 2.08 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.22-06.23.41:041][908]LogShaderCompilers: Display: ================================================
+[2024.05.22-06.23.41:041][908]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.22-06.23.41:041][908]LogShaderCompilers: Display: Total job queries 1025, among them cache hits 427 (41.66%)
+[2024.05.22-06.23.41:041][908]LogShaderCompilers: Display: Tracking 598 distinct input hashes that result in 341 distinct outputs (57.02%)
+[2024.05.22-06.23.41:041][908]LogShaderCompilers: Display: RAM used: 4.47 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.55%
+[2024.05.22-06.23.41:041][908]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.22-06.23.41:041][908]LogShaderCompilers: Display: Shaders Compiled: 90
+[2024.05.22-06.23.41:041][908]LogShaderCompilers: Display: Jobs assigned 90, completed 90 (100.00%)
+[2024.05.22-06.23.41:041][908]LogShaderCompilers: Display: Average time worker was idle: 2056.49 s
+[2024.05.22-06.23.41:041][908]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.47 s
+[2024.05.22-06.23.41:041][908]LogShaderCompilers: Display: Job execution time: average 2.21 s, max 6.20 s
+[2024.05.22-06.23.41:041][908]LogShaderCompilers: Display: Job life time (pending + execution): average 2.33 s, max 6.28
+[2024.05.22-06.23.41:041][908]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 31.50 s
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display: Jobs were issued in 80 batches (only local compilation was used), average 1.12 jobs/batch
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display: Average processing rate: 2.86 jobs/sec
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display: Total thread time: 65.88 s
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display: Total thread preprocess time: 4.45 s
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display: Percentage time preprocessing: 6.76%
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display: Effective parallelization: 2.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 1.12 sec, max 1.37 sec, min 0.91 sec)
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.96 sec, max 0.99 sec, min 0.94 sec)
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.96 sec, max 0.97 sec, min 0.94 sec)
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.96 sec, max 0.96 sec, min 0.95 sec)
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.94 sec, max 0.97 sec, min 0.91 sec)
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.37% of total time (compiled   14 times, average 0.91 sec, max 1.19 sec, min 0.72 sec)
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.97% of total time (compiled   14 times, average 0.85 sec, max 1.28 sec, min 0.66 sec)
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.05% of total time (compiled   11 times, average 0.72 sec, max 1.00 sec, min 0.59 sec)
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.07% of total time (compiled   11 times, average 0.48 sec, max 0.71 sec, min 0.39 sec)
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 5.08% of total time (compiled    3 times, average 1.12 sec, max 1.37 sec, min 0.91 sec)
+[2024.05.22-06.23.41:042][908]LogShaderCompilers: Display: ================================================
+[2024.05.22-06.24.18:441][ 70]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.05.22-06.24.27:364][353]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.22-06.24.27:376][353]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.05.22-06.24.27:383][353]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.22-06.24.27:383][353]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.22-06.24.27:383][353]LogWorldPartition: Display: GetPartitionedActors took 18 us (total: 793 us)
+[2024.05.22-06.24.27:414][353]LogWorldPartition: Display: GenerateStreaming took 30 ms (total: 3.88 sec)
+[2024.05.22-06.24.27:414][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.22-06.24.27:414][353]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonMap (21 may. 2024 19:24:27)
+[2024.05.22-06.24.27:414][353]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.22-06.24.27:454][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039604s)
+[2024.05.22-06.24.27:454][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.039650s)
+[2024.05.22-06.24.27:454][353]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.22-06.24.27:455][353]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.22-06.24.27:456][353]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.05.22-06.24.27:456][353]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.22-06.24.27:456][353]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.22-06.24.27:465][353]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.05.22-06.24.27:465][353]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 7.52 sec)
+[2024.05.22-06.24.27:466][353]LogPlayLevel: PIE: World Init took: (0.011763s)
+[2024.05.22-06.24.27:760][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.05.22-06.24.27:766][353]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.05.22-06.24.27:766][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.22-06.24.27:766][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.22-06.24.27:766][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.22-06.24.27:766][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.22-06.24.27:766][353]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.22-06.24.27:766][353]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.22-06.24.27:766][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.22-06.24.27:766][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.22-06.24.27:767][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.22-06.24.27:767][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.22-06.24.27:767][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.22-06.24.27:770][353]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.22-06.24.27:786][353]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (HyperX Cloud Flight Wireless)
+[2024.05.22-06.24.27:786][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.22-06.24.27:786][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.22-06.24.27:787][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.22-06.24.27:787][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.05.22-06.24.27:787][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.05.22-06.24.27:790][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.05.22-06.24.27:790][353]LogInit: FAudioDevice initialized.
+[2024.05.22-06.24.27:790][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.05.22-06.24.27:790][353]LogAudio: Display: Audio Device (ID: 41) registered with world 'ThirdPersonMap'.
+[2024.05.22-06.24.27:795][353]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.22-06.24.27:997][353]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.22-00.24.27
+[2024.05.22-06.24.28:003][353]LogWorld: Bringing up level for play took: 0.206149
+[2024.05.22-06.24.28:006][353]LogOnline: OSS: Created online subsystem instance for: :Context_135
+[2024.05.22-06.24.28:009][353]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-4570.766 Y=-5756.540 Z=3533.240
+[2024.05.22-06.24.28:026][353]PIE: El servidor ha iniciado la sesión
+[2024.05.22-06.24.28:027][353]PIE: Play in editor total start time 0.651 seconds.
+[2024.05.22-06.24.45:766][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.22-06.24.45:766][426]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.22-06.24.45:767][426]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.22-06.24.45:770][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-06.24.45:771][426]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.05.22-06.24.45:969][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.22-06.24.45:984][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-06.24.46:078][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.22-06.24.46:079][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.05.22-06.24.46:081][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.05.22-06.24.46:104][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.05.22-06.24.46:196][427]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2024.05.22-06.24.48:457][440]LogViewport: Scene viewport resized to 936x284, mode Windowed.
+[2024.05.22-06.24.48:515][442]LogViewport: Scene viewport resized to 936x288, mode Windowed.
+[2024.05.22-06.24.48:807][444]LogViewport: Scene viewport resized to 936x295, mode Windowed.
+[2024.05.22-06.24.50:389][494]LogViewport: Scene viewport resized to 936x325, mode Windowed.
+[2024.05.22-06.24.50:536][496]LogViewport: Scene viewport resized to 936x327, mode Windowed.
+[2024.05.22-06.24.50:765][498]LogViewport: Scene viewport resized to 936x331, mode Windowed.
+[2024.05.22-06.25.11:791][791]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.22-06.25.11:791][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.22-06.25.30:846][764]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2024.05.22-06.25.30:846][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-06.27.49:371][603]BlueprintLog: New page: Compilar BP_TerceraYPrimera
+[2024.05.22-06.27.49:697][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.05.22-06.27.52:209][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.22-06.27.52:320][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_TerceraYPrimera" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset" SILENT=true
+[2024.05.22-06.27.52:438][681]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera
+[2024.05.22-06.27.52:439][681]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/BP_TerceraYPrimera0494EE064878F0642377BE8F71AD8EB8.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset'
+[2024.05.22-06.27.52:453][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 244 ms (total: 1:40 min)
+[2024.05.22-06.27.52:469][681]AssetCheck: New page: Asset Save: BP_TerceraYPrimera
+[2024.05.22-06.27.52:469][681]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera.BP_TerceraYPrimera
+[2024.05.22-06.28.21:123][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.05.22-06.28.21:156][882]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9
+[2024.05.22-06.28.21:156][882]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9A1F150074F6E870094E1ABBDE6182583.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.28.21:657][882]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9A1F150074F6E870094E1ABBDE6182583.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.28.22:158][882]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9A1F150074F6E870094E1ABBDE6182583.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.28.22:659][882]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9A1F150074F6E870094E1ABBDE6182583.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.28.23:161][882]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9A1F150074F6E870094E1ABBDE6182583.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.28.23:661][882]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9A1F150074F6E870094E1ABBDE6182583.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.28.24:162][882]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9A1F150074F6E870094E1ABBDE6182583.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.28.24:663][882]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9A1F150074F6E870094E1ABBDE6182583.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.28.25:164][882]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9A1F150074F6E870094E1ABBDE6182583.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.28.25:665][882]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9A1F150074F6E870094E1ABBDE6182583.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.28.26:166][882]LogFileManager: Error: Error moving file '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9A1F150074F6E870094E1ABBDE6182583.tmp'.
+[2024.05.22-06.28.26:166][882]LogSavePackage: Warning: Failed to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to temp directory
+[2024.05.22-06.28.26:166][882]LogSavePackage: Error: Error saving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap'
+[2024.05.22-06.28.26:174][882]EditorErrors: New page: Guardar salida
+[2024.05.22-06.28.26:174][882]EditorErrors: Warning: Error al guardar '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap'
+[2024.05.22-06.28.26:245][882]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' which belongs to world '/Game/ThirdPerson/Maps/ThirdPersonMap'. Aborting autosave.
+[2024.05.22-06.28.26:282][883]LogAutomationController: Ignoring very large delta of 5.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.22-06.28.29:208][ 29]LogSlate: Window 'Registro del mensaje' being destroyed
+[2024.05.22-06.28.29:234][ 29]LogSlate: Window 'Registro del mensaje' being destroyed
+[2024.05.22-06.31.18:223][724]BlueprintLog: New page: Compilar BP_TerceraYPrimera
+[2024.05.22-06.31.18:587][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.05.22-06.31.20:259][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.22-06.31.20:424][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_TerceraYPrimera" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset" SILENT=true
+[2024.05.22-06.31.20:529][773]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera
+[2024.05.22-06.31.20:530][773]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/BP_TerceraYPrimera3C02A0B248EECFB36A762BA557262E89.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset'
+[2024.05.22-06.31.20:548][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 288 ms (total: 1:40 min)
+[2024.05.22-06.31.20:565][773]AssetCheck: New page: Asset Save: BP_TerceraYPrimera
+[2024.05.22-06.31.20:565][773]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera.BP_TerceraYPrimera
+[2024.05.22-06.31.40:520][172]BlueprintLog: New page: Compilar BP_TerceraYPrimera
+[2024.05.22-06.31.40:844][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.05.22-06.31.42:529][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.22-06.31.42:653][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_TerceraYPrimera" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset" SILENT=true
+[2024.05.22-06.31.42:751][201]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera
+[2024.05.22-06.31.42:751][201]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/BP_TerceraYPrimera254D74294ACE6881AEABA0B4CE235120.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset'
+[2024.05.22-06.31.42:767][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms (total: 1:40 min)
+[2024.05.22-06.31.42:783][201]AssetCheck: New page: Asset Save: BP_TerceraYPrimera
+[2024.05.22-06.31.42:783][201]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera.BP_TerceraYPrimera
+[2024.05.22-06.31.54:601][872]BlueprintLog: New page: Compilar BP_TerceraYPrimera
+[2024.05.22-06.31.54:936][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.05.22-06.31.56:588][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.22-06.31.56:712][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_TerceraYPrimera" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset" SILENT=true
+[2024.05.22-06.31.56:809][915]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera
+[2024.05.22-06.31.56:810][915]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/BP_TerceraYPrimera3D45E7BE4D7EE6C62E02C7BC5CB852B1.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset'
+[2024.05.22-06.31.56:823][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 235 ms (total: 1:40 min)
+[2024.05.22-06.31.56:837][915]AssetCheck: New page: Asset Save: BP_TerceraYPrimera
+[2024.05.22-06.31.56:837][915]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera.BP_TerceraYPrimera
+[2024.05.22-06.32.09:754][165]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.22-06.32.09:766][165]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.05.22-06.32.09:775][165]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.22-06.32.09:775][165]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.22-06.32.09:775][165]LogWorldPartition: Display: GetPartitionedActors took 18 us (total: 811 us)
+[2024.05.22-06.32.09:853][165]LogWorldPartition: Display: GenerateStreaming took 78 ms (total: 3.96 sec)
+[2024.05.22-06.32.09:854][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.22-06.32.09:854][165]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonMap (21 may. 2024 19:32:09)
+[2024.05.22-06.32.09:871][165]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.22-06.32.09:911][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040341s)
+[2024.05.22-06.32.09:911][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.040400s)
+[2024.05.22-06.32.09:912][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.22-06.32.09:912][165]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.22-06.32.09:913][165]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.05.22-06.32.09:913][165]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.22-06.32.09:913][165]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.22-06.32.09:922][165]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.05.22-06.32.09:922][165]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 7.53 sec)
+[2024.05.22-06.32.09:922][165]LogPlayLevel: PIE: World Init took: (0.010961s)
+[2024.05.22-06.32.10:173][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.05.22-06.32.10:186][165]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.05.22-06.32.10:186][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.22-06.32.10:186][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.22-06.32.10:186][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.22-06.32.10:186][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.22-06.32.10:186][165]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.22-06.32.10:186][165]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.22-06.32.10:186][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.22-06.32.10:186][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.22-06.32.10:187][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.22-06.32.10:187][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.22-06.32.10:187][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.22-06.32.10:597][165]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.22-06.32.10:615][165]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (HyperX Cloud Flight Wireless)
+[2024.05.22-06.32.10:615][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.22-06.32.10:615][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.22-06.32.10:615][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.22-06.32.10:616][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.05.22-06.32.10:616][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.05.22-06.32.10:618][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.05.22-06.32.10:618][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.05.22-06.32.10:618][165]LogInit: FAudioDevice initialized.
+[2024.05.22-06.32.10:618][165]LogAudio: Display: Audio Device (ID: 42) registered with world 'ThirdPersonMap'.
+[2024.05.22-06.32.10:624][165]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.22-06.32.10:937][165]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.22-00.32.10
+[2024.05.22-06.32.10:943][165]LogWorld: Bringing up level for play took: 0.318899
+[2024.05.22-06.32.10:946][165]LogOnline: OSS: Created online subsystem instance for: :Context_137
+[2024.05.22-06.32.10:968][165]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4631.254 Y=-5426.975 Z=3037.434] for [BP_TerceraYPrimera_C]
+[2024.05.22-06.32.10:987][165]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_TerceraYPrimera_C at Rotation: Pitch 0.000000 Yaw -79.599855 Roll 0.000000
+Translation: -4631.253827 -5426.975214 3037.433841
+Scale3D: 1.000000 1.000000 1.000000
+
+[2024.05.22-06.32.10:988][165]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-4631.254 Y=-5426.975 Z=3037.434
+[2024.05.22-06.32.11:004][165]PIE: El servidor ha iniciado la sesión
+[2024.05.22-06.32.11:004][165]PIE: Play in editor total start time 1.239 seconds.
+[2024.05.22-06.32.15:991][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.22-06.32.15:992][177]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.22-06.32.15:992][177]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.22-06.32.15:994][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-06.32.15:994][177]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.05.22-06.32.16:221][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.22-06.32.16:236][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-06.32.16:331][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.22-06.32.16:335][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.05.22-06.32.16:337][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.05.22-06.32.16:360][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.05.22-06.32.16:450][178]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2024.05.22-06.32.36:224][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.22-06.32.36:235][285]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.05.22-06.32.36:241][285]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.22-06.32.36:241][285]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.22-06.32.36:241][285]LogWorldPartition: Display: GetPartitionedActors took 19 us (total: 831 us)
+[2024.05.22-06.32.36:272][285]LogWorldPartition: Display: GenerateStreaming took 30 ms (total: 3.99 sec)
+[2024.05.22-06.32.36:272][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.22-06.32.36:272][285]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonMap (21 may. 2024 19:32:36)
+[2024.05.22-06.32.36:311][285]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.22-06.32.36:351][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040274s)
+[2024.05.22-06.32.36:351][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.040329s)
+[2024.05.22-06.32.36:352][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.22-06.32.36:352][285]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.22-06.32.36:353][285]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.05.22-06.32.36:353][285]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.22-06.32.36:353][285]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.22-06.32.36:362][285]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.05.22-06.32.36:362][285]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 7.54 sec)
+[2024.05.22-06.32.36:362][285]LogPlayLevel: PIE: World Init took: (0.011311s)
+[2024.05.22-06.32.36:585][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.05.22-06.32.36:592][285]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.05.22-06.32.36:592][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.22-06.32.36:592][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.22-06.32.36:592][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.22-06.32.36:592][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.22-06.32.36:592][285]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.22-06.32.36:592][285]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.22-06.32.36:592][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.22-06.32.36:592][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.22-06.32.36:593][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.22-06.32.36:593][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.22-06.32.36:593][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.22-06.32.36:596][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.22-06.32.36:611][285]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (HyperX Cloud Flight Wireless)
+[2024.05.22-06.32.36:612][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.22-06.32.36:612][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.22-06.32.36:612][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.22-06.32.36:613][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.05.22-06.32.36:613][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.05.22-06.32.36:615][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.05.22-06.32.36:615][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.05.22-06.32.36:615][285]LogInit: FAudioDevice initialized.
+[2024.05.22-06.32.36:615][285]LogAudio: Display: Audio Device (ID: 43) registered with world 'ThirdPersonMap'.
+[2024.05.22-06.32.36:620][285]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.22-06.32.36:849][285]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.22-00.32.36
+[2024.05.22-06.32.36:855][285]LogWorld: Bringing up level for play took: 0.234791
+[2024.05.22-06.32.36:858][285]LogOnline: OSS: Created online subsystem instance for: :Context_138
+[2024.05.22-06.32.36:863][285]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1233.890 Y=-3260.397 Z=3882.064
+[2024.05.22-06.32.36:879][285]PIE: El servidor ha iniciado la sesión
+[2024.05.22-06.32.36:880][285]PIE: Play in editor total start time 0.644 seconds.
+[2024.05.22-06.32.59:013][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.22-06.32.59:013][347]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.22-06.32.59:014][347]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.22-06.32.59:018][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-06.32.59:018][347]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.05.22-06.32.59:531][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.22-06.32.59:545][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-06.32.59:645][347]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.22-06.32.59:646][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.05.22-06.32.59:648][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.05.22-06.32.59:655][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.22-06.32.59:673][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.05.22-06.33.00:253][348]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2024.05.22-06.33.34:105][766]BlueprintLog: New page: Compilar BP_TerceraYPrimera
+[2024.05.22-06.33.34:455][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.05.22-06.33.36:768][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.22-06.33.36:905][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_TerceraYPrimera" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset" SILENT=true
+[2024.05.22-06.33.37:000][815]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera
+[2024.05.22-06.33.37:001][815]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/BP_TerceraYPrimeraB641C2614004701EA0B87886E8EB5401.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset'
+[2024.05.22-06.33.37:015][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 245 ms (total: 1:41 min)
+[2024.05.22-06.33.37:027][815]AssetCheck: New page: Asset Save: BP_TerceraYPrimera
+[2024.05.22-06.33.37:027][815]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera.BP_TerceraYPrimera
+[2024.05.22-06.36.27:068][422]LogEditorTransaction: Undo Paste clipboard contents
+[2024.05.22-06.36.36:764][896]BlueprintLog: New page: Compilar BP_TerceraYPrimera
+[2024.05.22-06.36.37:162][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.05.22-06.36.38:934][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.22-06.36.39:093][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_TerceraYPrimera" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset" SILENT=true
+[2024.05.22-06.36.39:190][928]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera
+[2024.05.22-06.36.39:190][928]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/BP_TerceraYPrimera0722794C46720AC84DF3388EF02F9A0E.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset'
+[2024.05.22-06.36.39:203][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 269 ms (total: 1:41 min)
+[2024.05.22-06.36.39:217][928]AssetCheck: New page: Asset Save: BP_TerceraYPrimera
+[2024.05.22-06.36.39:217][928]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera.BP_TerceraYPrimera
+[2024.05.22-06.39.43:169][143]BlueprintLog: New page: Compilar BP_TerceraYPrimera
+[2024.05.22-06.39.43:541][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.05.22-06.39.45:403][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.22-06.39.45:654][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_TerceraYPrimera" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset" SILENT=true
+[2024.05.22-06.39.45:753][210]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera
+[2024.05.22-06.39.45:753][210]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/BP_TerceraYPrimera11E5CE3A454D363D9E8486A960A806D7.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset'
+[2024.05.22-06.39.45:767][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 363 ms (total: 1:41 min)
+[2024.05.22-06.39.45:783][210]AssetCheck: New page: Asset Save: BP_TerceraYPrimera
+[2024.05.22-06.39.45:783][210]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera.BP_TerceraYPrimera
+[2024.05.22-06.39.52:613][674]BlueprintLog: New page: Compilar BP_TerceraYPrimera
+[2024.05.22-06.39.52:962][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.05.22-06.39.53:944][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.22-06.39.54:053][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_TerceraYPrimera" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset" SILENT=true
+[2024.05.22-06.39.54:148][705]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera
+[2024.05.22-06.39.54:149][705]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/BP_TerceraYPrimera643C64EC4E386AE5CD7A73B92CB20AD2.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset'
+[2024.05.22-06.39.54:163][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 1:42 min)
+[2024.05.22-06.39.54:176][705]AssetCheck: New page: Asset Save: BP_TerceraYPrimera
+[2024.05.22-06.39.54:176][705]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera.BP_TerceraYPrimera
+[2024.05.22-06.40.10:703][605]BlueprintLog: New page: Compilar BP_TerceraYPrimera
+[2024.05.22-06.40.11:062][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.05.22-06.40.17:522][927]BlueprintLog: New page: Compilar BP_TerceraYPrimera
+[2024.05.22-06.40.17:875][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.05.22-06.40.19:766][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.22-06.40.19:928][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_TerceraYPrimera" FILE="../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset" SILENT=true
+[2024.05.22-06.40.20:038][976]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera
+[2024.05.22-06.40.20:039][976]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/BP_TerceraYPrimera67B5633E4809D4B1378CA095A21F26CC.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Blueprints/BP_TerceraYPrimera.uasset'
+[2024.05.22-06.40.20:052][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 286 ms (total: 1:42 min)
+[2024.05.22-06.40.20:069][976]AssetCheck: New page: Asset Save: BP_TerceraYPrimera
+[2024.05.22-06.40.20:069][976]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_TerceraYPrimera.BP_TerceraYPrimera
+[2024.05.22-06.40.38:544][162]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.22-06.40.38:557][162]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.05.22-06.40.38:565][162]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.22-06.40.38:565][162]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.22-06.40.38:565][162]LogWorldPartition: Display: GetPartitionedActors took 20 us (total: 851 us)
+[2024.05.22-06.40.38:596][162]LogWorldPartition: Display: GenerateStreaming took 30 ms (total: 4.02 sec)
+[2024.05.22-06.40.38:596][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.22-06.40.38:596][162]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonMap (21 may. 2024 19:40:38)
+[2024.05.22-06.40.38:596][162]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.22-06.40.38:636][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039813s)
+[2024.05.22-06.40.38:636][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.039861s)
+[2024.05.22-06.40.38:636][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.22-06.40.38:637][162]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.22-06.40.38:638][162]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.05.22-06.40.38:638][162]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.22-06.40.38:638][162]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.22-06.40.38:648][162]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.05.22-06.40.38:648][162]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 7.54 sec)
+[2024.05.22-06.40.38:648][162]LogPlayLevel: PIE: World Init took: (0.011185s)
+[2024.05.22-06.40.38:905][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.05.22-06.40.38:917][162]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.05.22-06.40.38:917][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.22-06.40.38:917][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.22-06.40.38:917][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.22-06.40.38:917][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.22-06.40.38:917][162]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.22-06.40.38:917][162]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.22-06.40.38:917][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.22-06.40.38:917][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.22-06.40.38:917][162]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.22-06.40.38:917][162]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.22-06.40.38:917][162]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.22-06.40.38:921][162]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.22-06.40.38:937][162]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (HyperX Cloud Flight Wireless)
+[2024.05.22-06.40.38:937][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.22-06.40.38:937][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.22-06.40.38:937][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.22-06.40.38:938][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.05.22-06.40.38:938][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.05.22-06.40.38:941][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.05.22-06.40.38:941][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.05.22-06.40.38:941][162]LogInit: FAudioDevice initialized.
+[2024.05.22-06.40.38:941][162]LogAudio: Display: Audio Device (ID: 44) registered with world 'ThirdPersonMap'.
+[2024.05.22-06.40.38:946][162]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.22-06.40.39:113][162]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.22-00.40.39
+[2024.05.22-06.40.39:119][162]LogWorld: Bringing up level for play took: 0.173601
+[2024.05.22-06.40.39:129][162]LogOnline: OSS: Created online subsystem instance for: :Context_139
+[2024.05.22-06.40.39:133][162]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-4799.134 Y=-5818.230 Z=3574.191
+[2024.05.22-06.40.39:147][162]PIE: El servidor ha iniciado la sesión
+[2024.05.22-06.40.39:148][162]PIE: Play in editor total start time 0.59 seconds.
+[2024.05.22-06.41.05:010][242]LogBlueprintUserMessages: [BP_item_C_UAID_D8BBC14CC4FE3EF401_1422580735] Objeto agarrado
+[2024.05.22-06.41.16:275][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.22-06.41.16:275][278]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.22-06.41.16:286][278]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.22-06.41.16:289][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-06.41.16:290][278]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.05.22-06.41.16:978][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.22-06.41.16:993][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-06.41.17:103][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.22-06.41.17:106][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.05.22-06.41.17:109][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.05.22-06.41.17:114][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.22-06.41.17:134][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.05.22-06.41.17:554][279]LogPlayLevel: Display: Destroying online subsystem :Context_139
+[2024.05.22-06.41.42:411][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.05.22-06.41.42:443][416]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9
+[2024.05.22-06.41.42:443][416]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9376C1CEE4C91D468A6648A80F64EB07E.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.41.42:944][416]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9376C1CEE4C91D468A6648A80F64EB07E.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.41.43:445][416]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9376C1CEE4C91D468A6648A80F64EB07E.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.41.43:946][416]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9376C1CEE4C91D468A6648A80F64EB07E.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.41.44:446][416]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9376C1CEE4C91D468A6648A80F64EB07E.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.41.44:947][416]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9376C1CEE4C91D468A6648A80F64EB07E.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.41.45:448][416]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9376C1CEE4C91D468A6648A80F64EB07E.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.41.45:948][416]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9376C1CEE4C91D468A6648A80F64EB07E.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.41.46:449][416]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9376C1CEE4C91D468A6648A80F64EB07E.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.41.46:950][416]LogFileManager: Warning: MoveFile was unable to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9376C1CEE4C91D468A6648A80F64EB07E.tmp' (Error Code 32), retrying in .5s...
+[2024.05.22-06.41.47:450][416]LogFileManager: Error: Error moving file '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMap_Auto9376C1CEE4C91D468A6648A80F64EB07E.tmp'.
+[2024.05.22-06.41.47:450][416]LogSavePackage: Warning: Failed to move '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' to temp directory
+[2024.05.22-06.41.47:450][416]LogSavePackage: Error: Error saving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap'
+[2024.05.22-06.41.47:453][416]EditorErrors: New page: Guardar salida
+[2024.05.22-06.41.47:453][416]EditorErrors: Warning: Error al guardar '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap'
+[2024.05.22-06.41.47:518][416]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto9.umap' which belongs to world '/Game/ThirdPerson/Maps/ThirdPersonMap'. Aborting autosave.
+[2024.05.22-06.41.47:559][417]LogAutomationController: Ignoring very large delta of 5.94 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.22-06.41.53:155][448]LogSlate: Window 'Registro del mensaje' being destroyed
+[2024.05.22-06.41.53:484][448]LogSlate: Window 'Registro del mensaje' being destroyed
+[2024.05.22-06.41.54:836][458]LogLinker: Warning: Error al cargar '{FileName}': No puede encontrar el archivo
+[2024.05.22-06.41.54:838][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.22-06.41.55:202][458]LogLinker: Warning: Error al cargar '{FileName}': No puede encontrar el archivo
+[2024.05.22-06.41.55:202][458]LogLinker: Warning: Error al cargar '{FileName}': No puede encontrar el archivo
+[2024.05.22-06.41.55:316][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.22-06.41.55:415][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.05.22-06.41.55:513][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.22-06.41.55:619][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.22-06.41.55:646][458]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.05.22-06.41.55:646][458]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/ThirdPersonMapE13C42DF447988C09805FBBC998AA0B6.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.05.22-06.41.55:716][458]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.194
+[2024.05.22-06.41.55:721][458]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/KI/3PQIHIWRG9II1W2O8CV9AA
+[2024.05.22-06.41.55:721][458]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/3PQIHIWRG9II1W2O8CV9AAA619FC82424E1F885BD9488FD169FECE.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/KI/3PQIHIWRG9II1W2O8CV9AA.uasset'
+[2024.05.22-06.41.55:726][458]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3I/JC4PFP63PGIFXRNPKTMU76
+[2024.05.22-06.41.55:726][458]LogSavePackage: Moving '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Saved/JC4PFP63PGIFXRNPKTMU766990DCC14382BC2DDC91B39D2734C939.tmp' to '../../../../../FCFM/8vo/Optimización/EV/Pia_Ev1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3I/JC4PFP63PGIFXRNPKTMU76.uasset'
+[2024.05.22-06.41.55:743][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 905 ms (total: 1:43 min)
+[2024.05.22-06.41.55:784][458]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.22-06.41.55:784][458]LogContentValidation: Display: Validating /Game/Dialogo/BP_NPC.BP_NPC_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_D8BBC14CC4FEDAF701_2104961370
+[2024.05.22-06.41.55:784][458]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_D8BBC14CC4FEDAF701_1726913369
+[2024.05.22-06.41.55:784][458]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.05.22-06.42.52:947][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.05.22-06.42.54:574][690]LogSlate: Window 'Guardar contenido' being destroyed
+[2024.05.22-06.42.54:587][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
